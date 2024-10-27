@@ -86,7 +86,6 @@ After running the load tests, you can find the **result analysis** in the `loadT
 - [Cypress.io](https://docs.cypress.io/guides/overview/why-cypress)
 - [cypress-plugin-api](https://github.com/filiphric/cypress-plugin-api)
 - [K6](https://k6.io/docs/)
-- [GitHub Actions](https://docs.github.com/en/actions)
 - [cypress-mochawesome-reporter](https://www.npmjs.com/package/cypress-mochawesome-reporter)
 
 ## Run Locally
