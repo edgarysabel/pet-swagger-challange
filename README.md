@@ -1,4 +1,4 @@
-# QA Automation Challenge
+# QA Automation For Pet Swagger
 
 This project is a web test automation framework using [Cypress](https://www.cypress.io/) version 13, written in JavaScript. It utilizes [Mochawesome](https://github.com/adamgruber/mochawesome) for generating stylish and informative test reports. It tests the webpage [PetSwagger](https://petstore.swagger.io/) Version 2 for API and Load Testing using **Cypress** for API tests and **K6** for load tests. To run locally please modify .env JSON and URL under K6.
 
